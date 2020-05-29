@@ -104,7 +104,7 @@ run_frame.config(padding=(40, 10))
 copy_frame = ttk.Frame(main)
 copy_frame.pack(fill="both", expand="yes")
 
-Label(copy_frame, text="© shustercomputer@gmail.com            Freeware Version").pack()
+Label(copy_frame, text=" MIT GitHub salsa-impresionante ").pack()
 
 oct1 = ttk.Entry(enter_frame, width=8)
 oct1.grid(row=0, column=0)
